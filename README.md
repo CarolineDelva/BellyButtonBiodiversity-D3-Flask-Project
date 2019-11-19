@@ -41,12 +41,15 @@ The final visuals have the following characteristics:
 
 ## Needed for project
 
-* Run`pip install -r requirements.txt` before starting the server.
+* requirements.txt
+* Procfile
+* initdb.py
+* _init_.py
 
 
 ## Visualizations
 
-See the app in action [Belly Button Biodiversity Application](https://bellybuttoncarolineapp.herokuapp.com/)
+See the app in action: [Belly Button Biodiversity Application](https://bellybuttoncarolineapp.herokuapp.com/)
 
 ### Pie Chart 
 
@@ -61,6 +64,10 @@ See the app in action [Belly Button Biodiversity Application](https://bellybutto
 ### Gauge Chart 
 
 ![Gauge Chart](Images/gauge.png)
+
+## Get Started 
+
+- Clone this repo (for help see this tutorial).
 
 
 ## Contact
