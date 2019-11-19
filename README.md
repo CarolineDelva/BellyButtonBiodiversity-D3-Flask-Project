@@ -13,7 +13,7 @@ I completed this project during my time at the [Columbia Engineering Data Analyt
 
 The purpose of this project is to build an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/) for a full stack application and deploy this application to Heroku.
 
-The visuals have the following characteristics 
+The final visuals have the following characteristics:  
 
 * A PIE chart that uses `sample_values` as the values for the PIE chart from(`/samples/<sample>`) route to display the top 10 samples.
 
@@ -27,20 +27,42 @@ The visuals have the following characteristics
 
 * All charts should update when a new sample is selected.
 
+## Methods Used
+* Data Visualization
+* Database Query
+* Heroku Deployment
+
+## Technologies
+* Python (Pandas, Matplotlib, Numpy,  Flask) 
+* JavaScript (Plotly)
+* SQLite
+* Heroku
 
 
 ## Needed for project
 
-* Don't forget to `pip install -r requirements.txt` before you start your server.
-
-* Use `console.log` inside of your JavaScript code to see what your data looks like at each step.
-
-* Refer to the [Plotly.js Documentation](https://plot.ly/javascript/) when building the plots.
-
-- - -
+* Run`pip install -r requirements.txt` before starting the server.
 
 
- ![PIE Chart](Images/pie_chart.png)
+## Visualizations
+
+See the app in action [Belly Button Biodiversity Application](https://bellybuttoncarolineapp.herokuapp.com/)
+
+### Pie Chart 
+
+![PIE Chart](Images/pie_chart.png)
 
 
-  ![Bubble Chart](Images/bubble_chart.png)
+### Bubble Chart
+
+
+![Bubble Chart](Images/bubble_chart.png)
+
+### Gauge Chart 
+
+![Gauge Chart](Images/gauge.png)
+
+
+## Contact
+* [Visit my LinkedIn](https://www.linkedin.com/in/caroline-delva-5184a172/) 
+* [Visit my portfolio](https://carolinedelva.github.io/CarolineDelvaPortfolio/) 
